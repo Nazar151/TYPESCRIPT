@@ -7,3 +7,5 @@ var firstName = "Nazar";
 var lastName = 'Volkov';
 var someText = "This my name: " + firstName + ", and lastname " + lastName;
 console.log(someText);
+var arr = [];
+arr.push(34);
